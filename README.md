@@ -21,6 +21,7 @@ Um bot totalmente dedicado a ser util em todas as funções do seu servidor.
    Programado em: "Node.js, replit"
    Desenvolvido com: "Discord.js e Express"
    Criador: "Little Cat#0001 (Guilhermy Herry Assis da Silva)"
+   Créditos de Arte: "Luna - Wolf Wall Art Print, Wild Collection"
 
 ```
 
@@ -56,7 +57,7 @@ Copyright Wolfizz - Todos os direitos reservados
 
 **[Twitter]()** ----------------- Criador: Guilhermy Herry.
 
-**[Convide o bot]()** ----------------- Créditos da arte por: 
+**[Convide o bot]()** ----------------- Créditos da arte por: Wild Collection
 
 **[Wolfizz Website]()**
 
