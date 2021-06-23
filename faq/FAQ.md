@@ -2,7 +2,7 @@
 
 🐌 Encontrou um bug?
 -
-Para reportar um bug use o comando `.bug` do Wolfizz em qualquer servidor aue ele esteja (Sugiro que sugira para colocar ele em outros servidores ;) )
+Para reportar um bug use o comando `.bug` do Wolfizz em qualquer servidor que ele esteja (Sugiro que sugira para colocar ele em outros servidores ;) )
 
  O .bug é algo totalmente profissional e importante! Você terá que respeitar todas as regras para não ser banido da whitelist!
 ```json
@@ -54,6 +54,11 @@ Alguns erros podem ser vistos no Addemoji que por sinal é um dos comandos mais 
  As vezes o discord precisa detectar por 0.5 milesegundos menções como emojis, usuários e cargos
 
   Outro erro bastante conveniente é este:
-> .addemoji Ayy <imagem_muito_grande>
+> .addemoji Ayy <imagem_muito_grande> ou <imagem_muito_pesada>
 
-  Os emojis do Discord tem um tamanho específico de 124x124px para emojis. Caso não forem seguidos, o addemoji pode não funcionar
+  Os emojis do Discord tem um tamanho específico de 128x128 pixels (Que são redimensionados a 32x32 pixels) para emojis e com o tamanho do emoji menor do que 256kb. Caso não forem seguidos, o addemoji pode não funcionar
+ > > Os erros também podem ser adicionados ao **.addemoji nome attachment**
+
+🔲 Fim?
+-
+ A FAQ pode nunca ter um fim, conforme as atualizações do Wolfizz serem feitas mais perguntas vem e vão e iremos colocar mais e mais perguntas
